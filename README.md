@@ -25,4 +25,4 @@ pip install -r requirements.txt
 ```
 python main.py --augment [AUGMENT]
 ```
-The pretrained model is available in 
+The pretrained model is available in https://drive.google.com/file/d/12xCMs3N6tKIDzMEfk62xR3bhYA2sZAXC/view?usp=sharing
